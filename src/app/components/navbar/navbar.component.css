@@ -1,0 +1,29 @@
+.custom-navbar {
+    background-color: #092e58; /* Custom background color */
+    color: white; /* Text color */
+  }
+  
+  .custom-navbar .navbar-brand {
+    color: white;
+    font-weight: bold;
+  }
+  
+  .custom-navbar .navbar-toggler {
+    border-color: white;
+  }
+  
+  .custom-navbar .nav-link {
+    color: white;
+  }
+  
+  .custom-navbar .nav-link.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .navbar-nav .nav-link {
+    padding-left: 20px; /* Increase left padding */
+    padding-right: 20px; /* Increase right padding */
+  }
+  
+  

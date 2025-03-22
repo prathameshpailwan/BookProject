@@ -1,0 +1,98 @@
+<div class="container-fluid">
+    <form #accessoryForm="ngForm" *ngIf="!detailsFlag">
+        <div class="card">
+            <div class="card-header p-2">
+                <div class="row align-items-center">
+                    <div class="col-sm-4">
+                        <h5>Books</h5>
+                    </div>
+                    <div class="col-sm-2">
+                        <input [(ngModel)]="Title" name="search" type="search" id="search-bar" autocomplete="off"
+                            class="form-control" placeholder="Search Title"
+                            (ngModelChange)="SearchBooks(Title ,'Title')">
+                    </div>
+                    <div class="col-sm-2">
+                        <input [(ngModel)]="Author" name="search" type="search" id="search-bar" autocomplete="off"
+                            class="form-control" placeholder="Search Author"
+                            (ngModelChange)="SearchBooks(Author , 'Author')">
+                    </div>
+                    <div class="col-sm-4 d-flex justify-content-end">
+                        <input [(ngModel)]="searchText" name="search" type="search" id="search-bar" autocomplete="off"
+                            class="form-control" placeholder="Search here">
+                        <i class="fa fa-search"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row pt-2">
+            <div class="col-lg-2 col-md-4 col-sm-6 mb-3"
+                *ngFor="let book of filteredBooksList | globalFilter:searchText">
+                <div class="card h-100">
+                    <div class="card-header p-2">
+                        <div class="row align-items-center">
+                            <div class="col-12">
+                                <img [src]="'assets/images/' + book.imageLink" class="card-img-top fixed-img"
+                                    alt="{{ book.title }}">
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="card-body p-2 d-flex flex-column">
+                        <h6 class="mb-1 text-truncate">{{ book.title }}</h6>
+                        <p class="small mb-0"><strong>Author:</strong> {{ book.author }}</p>
+                        <div class="flex-grow-1"></div>
+
+                        <div class="mt-auto pb-1 pull-right">
+                            <button type="submit" class="btn btn-success btn-sm px-2 py-1" (click)="GetDetails(book)">
+                                <b> View Details</b>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+    <div *ngIf="detailsFlag">
+        <div class="card">
+            <div class="card-header">
+                <div class="row align-items-center">
+                    <div class="col-sm-5">
+                        <h5>Book Details</h5>
+                    </div>
+                    <div class="col-sm-7">
+                        <button type="button" class="btn-close float-end pointer me-3" aria-label="Close"
+                            (click)="onBack()">
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="row">
+                            <div class="col-3">
+                                <img [src]="'assets/images/' + BookData['imageLink']"
+                                    class="card-img-top imageDimensions" alt="{{ BookData['title'] }}">
+                                <div class="center-text">
+                                    <strong>price :</strong>₹{{ BookData['price'] }}
+                                </div>
+                            </div>
+                            <div class="col-9 book-details">
+                                <h6 class="pt-3 book-title">{{ BookData['title'] }}</h6>
+                                <p class="pt-3"><span class="book-label">Author:</span> {{ BookData['author'] }}</p>
+                                <p class="pt-3"><span class="book-label">Country:</span> {{ BookData['country'] }}</p>
+                                <p class="pt-3"><span class="book-label">Language:</span> {{ BookData['language'] }}</p>
+                                <p class="pt-3"><span class="book-label">Pages:</span> {{ BookData['pages'] }}</p>
+                                <p class="pt-3"><span class="book-label">Year</span> {{ BookData['year'] }}</p>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,1071 @@
+[
+    {
+      "author": "Chinua Achebe",
+      "country": "Nigeria",
+      "imageLink": "things-fall-apart.jpg",
+      "language": "English",
+      "link": "Things_Fall_Apart.jpg",
+      "pages": 209,
+      "title": "Things Fall Apart",
+      "year": 1958
+      ,"price" : 500
+      ,"Description" : "People from different corners of the world embrace unique languages, traditions, and lifestyles. Despite these diversities, humanity thrives on shared values such as love, compassion, and unity. This book explores the rich cultural heritage of civilizations across time, diving into their festivals, social customs, and philosophies that have shaped the human experience."
+    },
+    {
+      "author": "Hans Christian Andersen",
+      "country": "Denmark",
+      "imageLink": "fairy-tales.jpg",
+      "language": "Danish",
+      "link": "Fairy_Tales_Told_for_Children._First_Collection.jpg",
+      "pages": 784,
+      "title": "Fairy tales",
+      "year": 1836
+      ,"price" : 600
+      ,"Description": "Every society cherishes its customs, passed down through generations, forming the essence of its identity. This book takes readers on a journey across continents, revealing the significance of traditional dances, music, rituals, and folklore that continue to inspire and connect communities worldwide."
+
+    },
+    {
+      "author": "Dante Alighieri",
+      "country": "Italy",
+      "imageLink": "the-divine-comedy.jpg",
+      "language": "Italian",
+      "link": "Divine_Comedy.jpg",
+      "pages": 928,
+      "title": "The Divine Comedy",
+      "year": 1315
+      ,"price" : 700
+      ,"Description" : "People from different corners of the world embrace unique languages, traditions, and lifestyles. Despite these diversities, humanity thrives on shared values such as love, compassion, and unity. This book explores the rich cultural heritage of civilizations across time, diving into their festivals, social customs, and philosophies that have shaped the human experience."
+
+    },
+    {
+      "author": "Unknown",
+      "country": "Sumer and Akkadian Empire",
+      "imageLink": "the-epic-of-gilgamesh.jpg",
+      "language": "Akkadian",
+      "link": "Epic_of_Gilgamesh.jpg",
+      "pages": 160,
+      "title": "The Epic Of Gilgamesh",
+      "year": -1700
+      ,"price" : 550
+      ,"Description": "Life presents numerous facets—joy, sorrow, ambition, failure, and personal growth. Each individual embarks on a journey of self-discovery, understanding their purpose and potential. This book delves into the art of mindfulness, emotional resilience, and self-improvement, guiding readers toward a more fulfilling life."
+
+    },
+    {
+      "author": "Unknown",
+      "country": "Achaemenid Empire",
+      "imageLink": "the-book-of-job.jpg",
+      "language": "Hebrew",
+      "link": "Book_of_Job.jpg",
+      "pages": 176,
+      "title": "The Book Of Job",
+      "year": -600
+      ,"price" : 650
+      ,"Description" : "People from different corners of the world embrace unique languages, traditions, and lifestyles. Despite these diversities, humanity thrives on shared values such as love, compassion, and unity. This book explores the rich cultural heritage of civilizations across time, diving into their festivals, social customs, and philosophies that have shaped the human experience."
+
+    },
+    {
+      "author": "Unknown",
+      "country": "India",
+      "imageLink": "one-thousand-and-one-nights.jpg",
+      "language": "Arabic",
+      "link": "One_Thousand_and_One_Nights.jpg",
+      "pages": 288,
+      "title": "One Thousand and One Nights",
+      "year": 1200
+      ,"price" : 750
+      ,"Description" : "People from different corners of the world embrace unique languages, traditions, and lifestyles. Despite these diversities, humanity thrives on shared values such as love, compassion, and unity. This book explores the rich cultural heritage of civilizations across time, diving into their festivals, social customs, and philosophies that have shaped the human experience."
+
+    },
+    {
+      "author": "Unknown",
+      "country": "Iceland",
+      "imageLink": "njals-saga.jpg",
+      "language": "Old Norse",
+      "link": "Nj%C3%A1ls_saga.jpg",
+      "pages": 384,
+      "title": "Nj\u00e1l's Saga",
+      "year": 1350
+      ,"price" : 500
+      ,"Description": "Life presents numerous facets—joy, sorrow, ambition, failure, and personal growth. Each individual embarks on a journey of self-discovery, understanding their purpose and potential. This book delves into the art of mindfulness, emotional resilience, and self-improvement, guiding readers toward a more fulfilling life."
+
+    },
+    {
+      "author": "Jane Austen",
+      "country": "United Kingdom",
+      "imageLink": "pride-and-prejudice.jpg",
+      "language": "English",
+      "link": "Pride_and_Prejudice.jpg",
+      "pages": 226,
+      "title": "Pride and Prejudice",
+      "year": 1813
+      ,"price" : 500
+      ,"Description": "Every society cherishes its customs, passed down through generations, forming the essence of its identity. This book takes readers on a journey across continents, revealing the significance of traditional dances, music, rituals, and folklore that continue to inspire and connect communities worldwide."
+
+    },
+    {
+      "author": "Honor\u00e9 de Balzac",
+      "country": "France",
+      "imageLink": "le-pere-goriot.jpg",
+      "language": "French",
+      "link": "Le_P%C3%A8re_Goriot.jpg",
+      "pages": 443,
+      "title": "Le P\u00e8re Goriot",
+      "year": 1835
+      ,"price" : 500
+      ,"Description" : "People from different corners of the world embrace unique languages, traditions, and lifestyles. Despite these diversities, humanity thrives on shared values such as love, compassion, and unity. This book explores the rich cultural heritage of civilizations across time, diving into their festivals, social customs, and philosophies that have shaped the human experience."
+
+    },
+    {
+      "author": "Samuel Beckett",
+      "country": "Republic of Ireland",
+      "imageLink": "molloy-malone-dies-the-unnamable.jpg",
+      "language": "French, English",
+      "link": "Molloy_(novel).jpg",
+      "pages": 256,
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "year": 1952
+      ,"price" : 500
+      ,"Description": "Communication is more than just words; it is a bridge between cultures, beliefs, and identities. Through language, people preserve their history and express their deepest emotions. This book uncovers the fascinating evolution of languages and their influence on society, literature, and global connections."
+
+    },
+    
+    {
+      "author": "Jorge Luis Borges",
+      "country": "Argentina",
+      "imageLink": "ficciones.jpg",
+      "language": "Spanish",
+      "link": "Ficciones.jpg",
+      "pages": 224,
+      "title": "Ficciones",
+      "year": 1965
+      ,"price" : 500
+      ,"Description": "Life presents numerous facets—joy, sorrow, ambition, failure, and personal growth. Each individual embarks on a journey of self-discovery, understanding their purpose and potential. This book delves into the art of mindfulness, emotional resilience, and self-improvement, guiding readers toward a more fulfilling life."
+
+    },
+    {
+      "author": "Emily Bront\u00eb",
+      "country": "United Kingdom",
+      "imageLink": "wuthering-heights.jpg",
+      "language": "English",
+      "link": "Wuthering_Heights.jpg",
+      "pages": 342,
+      "title": "Wuthering Heights",
+      "year": 1847
+      ,"price" : 500
+      , "Description": "Every society cherishes its customs, passed down through generations, forming the essence of its identity. This book takes readers on a journey across continents, revealing the significance of traditional dances, music, rituals, and folklore that continue to inspire and connect communities worldwide."
+
+    },
+    {
+      "author": "Albert Camus",
+      "country": "Algeria, French Empire",
+      "imageLink": "l-etranger.jpg",
+      "language": "French",
+      "link": "The_Stranger_(novel).jpg",
+      "pages": 185,
+      "title": "The Stranger",
+      "year": 1942
+      ,"price" : 500
+      ,"Description": "Communication is more than just words; it is a bridge between cultures, beliefs, and identities. Through language, people preserve their history and express their deepest emotions. This book uncovers the fascinating evolution of languages and their influence on society, literature, and global connections."
+
+    },
+    {
+      "author": "Paul Celan",
+      "country": "Romania, France",
+      "imageLink": "poems-paul-celan.jpg",
+      "language": "German",
+      "link": ".jpg",
+      "pages": 320,
+      "title": "Poems",
+      "year": 1952
+      ,"price" : 500
+      , "Description": "Life presents numerous facets—joy, sorrow, ambition, failure, and personal growth. Each individual embarks on a journey of self-discovery, understanding their purpose and potential. This book delves into the art of mindfulness, emotional resilience, and self-improvement, guiding readers toward a more fulfilling life."
+
+    },
+    {
+      "author": "Louis-Ferdinand C\u00e9line",
+      "country": "France",
+      "imageLink": "voyage-au-bout-de-la-nuit.jpg",
+      "language": "French",
+      "link": "Journey_to_the_End_of_the_Night.jpg",
+      "pages": 505,
+      "title": "Journey to the End of the Night",
+      "year": 1932
+      ,"price" : 500
+      , "Description": "Every society cherishes its customs, passed down through generations, forming the essence of its identity. This book takes readers on a journey across continents, revealing the significance of traditional dances, music, rituals, and folklore that continue to inspire and connect communities worldwide."
+
+    },
+    {
+      "author": "Miguel de Cervantes",
+      "country": "Spain",
+      "imageLink": "don-quijote-de-la-mancha.jpg",
+      "language": "Spanish",
+      "link": "Don_Quixote.jpg",
+      "pages": 1056,
+      "title": "Don Quijote De La Mancha",
+      "year": 1610
+      ,"price" : 500
+      ,"Description": "Communication is more than just words; it is a bridge between cultures, beliefs, and identities. Through language, people preserve their history and express their deepest emotions. This book uncovers the fascinating evolution of languages and their influence on society, literature, and global connections."
+
+    },
+    {
+      "author": "Geoffrey Chaucer",
+      "country": "England",
+      "imageLink": "the-canterbury-tales.jpg",
+      "language": "English",
+      "link": "The_Canterbury_Tales.jpg",
+      "pages": 544,
+      "title": "The Canterbury Tales",
+      "year": 1450
+      ,"price" : 399
+      , "Description": "Every society cherishes its customs, passed down through generations, forming the essence of its identity. This book takes readers on a journey across continents, revealing the significance of traditional dances, music, rituals, and folklore that continue to inspire and connect communities worldwide."
+
+    },
+    {
+      "author": "Anton Chekhov",
+      "country": "Russia",
+      "imageLink": "stories-of-anton-chekhov.jpg",
+      "language": "Russian",
+      "link": "List_of_short_stories_by_Anton_Chekhov.jpg",
+      "pages": 194,
+      "title": "Stories",
+      "year": 1886
+      ,"price" : 499
+      ,"Description": "Festivals reflect the vibrancy of human culture, bringing people together in moments of joy and gratitude. Whether it's Diwali, Christmas, Eid, or Carnival, celebrations embody unity and tradition. This book narrates the history, customs, and significance of various global festivals, showcasing the spirit of togetherness."
+
+    },
+    {
+      "author": "Joseph Conrad",
+      "country": "United Kingdom",
+      "imageLink": "nostromo.jpg",
+      "language": "English",
+      "link": "Nostromo.jpg",
+      "pages": 320,
+      "title": "Nostromo",
+      "year": 1904
+      ,"price" : 599
+      ,"Description": "Communication is more than just words; it is a bridge between cultures, beliefs, and identities. Through language, people preserve their history and express their deepest emotions. This book uncovers the fascinating evolution of languages and their influence on society, literature, and global connections."
+
+    },
+    {
+      "author": "Charles Dickens",
+      "country": "United Kingdom",
+      "imageLink": "great-expectations.jpg",
+      "language": "English",
+      "link": "Great_Expectations.jpg",
+      "pages": 194,
+      "title": "Great Expectations",
+      "year": 1861
+      ,"price" : 490
+      ,"Description": "Despite diverse perspectives and backgrounds, people seek peace, love, and understanding. This book emphasizes the importance of empathy, cooperation, and coexistence, illustrating how humanity can transcend boundaries and live in harmony while honoring individual uniqueness."
+
+    },
+    {
+      "author": "Denis Diderot",
+      "country": "France",
+      "imageLink": "jacques-the-fatalist.jpg",
+      "language": "French",
+      "link": "Jacques_the_Fatalist.jpg",
+      "pages": 596,
+      "title": "Jacques the Fatalist",
+      "year": 1796
+      ,"price" : 270
+      ,"Description": "Festivals reflect the vibrancy of human culture, bringing people together in moments of joy and gratitude. Whether it's Diwali, Christmas, Eid, or Carnival, celebrations embody unity and tradition. This book narrates the history, customs, and significance of various global festivals, showcasing the spirit of togetherness."
+
+    },
+    {
+      "author": "Alfred D\u00f6blin",
+      "country": "Germany",
+      "imageLink": "berlin-alexanderplatz.jpg",
+      "language": "German",
+      "link": "Berlin_Alexanderplatz.jpg",
+      "pages": 600,
+      "title": "Berlin Alexanderplatz",
+      "year": 1929
+      ,"price" : 890
+      ,"Description": "Communication is more than just words; it is a bridge between cultures, beliefs, and identities. Through language, people preserve their history and express their deepest emotions. This book uncovers the fascinating evolution of languages and their influence on society, literature, and global connections."
+
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "crime-and-punishment.jpg",
+      "language": "Russian",
+      "link": "Crime_and_Punishment.jpg",
+      "pages": 551,
+      "title": "Crime and Punishment",
+      "year": 1866
+      ,"price" : 500
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "the-idiot.jpg",
+      "language": "Russian",
+      "link": "The_Idiot.jpg",
+      "pages": 656,
+      "title": "The Idiot",
+      "year": 1869
+      ,"price" : 600
+      ,"Description": "Communication is more than just words; it is a bridge between cultures, beliefs, and identities. Through language, people preserve their history and express their deepest emotions. This book uncovers the fascinating evolution of languages and their influence on society, literature, and global connections."
+
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "the-possessed.jpg",
+      "language": "Russian",
+      "link": "Demons_(Dostoyevsky_novel).jpg",
+      "pages": 768,
+      "title": "The Possessed",
+      "year": 1872
+      ,"price" : 800
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "the-brothers-karamazov.jpg",
+      "language": "Russian",
+      "link": "The_Brothers_Karamazov.jpg",
+      "pages": 824,
+      "title": "The Brothers Karamazov",
+      "year": 1880
+      ,"price" : 350
+      ,"Description": "Communication is more than just words; it is a bridge between cultures, beliefs, and identities. Through language, people preserve their history and express their deepest emotions. This book uncovers the fascinating evolution of languages and their influence on society, literature, and global connections."
+
+    },
+    {
+      "author": "George Eliot",
+      "country": "United Kingdom",
+      "imageLink": "middlemarch.jpg",
+      "language": "English",
+      "link": "Middlemarch.jpg",
+      "pages": 800,
+      "title": "Middlemarch",
+      "year": 1871
+      ,"price" : 780
+    },
+    {
+      "author": "Ralph Ellison",
+      "country": "United States",
+      "imageLink": "invisible-man.jpg",
+      "language": "English",
+      "link": "Invisible_Man.jpg",
+      "pages": 581,
+      "title": "Invisible Man",
+      "year": 1952
+      ,"price" : 560
+    },
+    {
+      "author": "Euripides",
+      "country": "Greece",
+      "imageLink": "medea.jpg",
+      "language": "Greek",
+      "link": "Medea_(play).jpg",
+      "pages": 104,
+      "title": "Medea",
+      "year": -431
+      ,"price" : 670
+    },
+    {
+      "author": "William Faulkner",
+      "country": "United States",
+      "imageLink": "absalom-absalom.jpg",
+      "language": "English",
+      "link": "Absalom,_Absalom!.jpg",
+      "pages": 313,
+      "title": "Absalom, Absalom!",
+      "year": 1936
+      ,"price" : 450
+    },
+    {
+      "author": "William Faulkner",
+      "country": "United States",
+      "imageLink": "the-sound-and-the-fury.jpg",
+      "language": "English",
+      "link": "The_Sound_and_the_Fury.jpg",
+      "pages": 326,
+      "title": "The Sound and the Fury",
+      "year": 1929
+      ,"price" : 500
+    },
+    {
+      "author": "Gustave Flaubert",
+      "country": "France",
+      "imageLink": "madame-bovary.jpg",
+      "language": "French",
+      "link": "Madame_Bovary.jpg",
+      "pages": 528,
+      "title": "Madame Bovary",
+      "year": 1857
+    },
+    {
+      "author": "Gustave Flaubert",
+      "country": "France",
+      "imageLink": "l-education-sentimentale.jpg",
+      "language": "French",
+      "link": "Sentimental_Education.jpg",
+      "pages": 606,
+      "title": "Sentimental Education",
+      "year": 1869
+    },
+    {
+      "author": "Federico Garc\u00eda Lorca",
+      "country": "Spain",
+      "imageLink": "gypsy-ballads.jpg",
+      "language": "Spanish",
+      "link": "Gypsy_Ballads.jpg",
+      "pages": 218,
+      "title": "Gypsy Ballads",
+      "year": 1928
+    },
+    {
+      "author": "Gabriel Garc\u00eda M\u00e1rquez",
+      "country": "Colombia",
+      "imageLink": "one-hundred-years-of-solitude.jpg",
+      "language": "Spanish",
+      "link": "One_Hundred_Years_of_Solitude.jpg",
+      "pages": 417,
+      "title": "One Hundred Years of Solitude",
+      "year": 1967
+    },
+    {
+      "author": "Gabriel Garc\u00eda M\u00e1rquez",
+      "country": "Colombia",
+      "imageLink": "love-in-the-time-of-cholera.jpg",
+      "language": "Spanish",
+      "link": "Love_in_the_Time_of_Cholera.jpg",
+      "pages": 368,
+      "title": "Love in the Time of Cholera",
+      "year": 1985
+    },
+    {
+      "author": "Johann Wolfgang von Goethe",
+      "country": "Saxe-Weimar",
+      "imageLink": "faust.jpg",
+      "language": "German",
+      "link": "Goethe%27s_Faust.jpg",
+      "pages": 158,
+      "title": "Faust",
+      "year": 1832
+    },
+    {
+      "author": "Nikolai Gogol",
+      "country": "Russia",
+      "imageLink": "dead-souls.jpg",
+      "language": "Russian",
+      "link": "Dead_Souls.jpg",
+      "pages": 432,
+      "title": "Dead Souls",
+      "year": 1842
+    },
+    {
+      "author": "G\u00fcnter Grass",
+      "country": "Germany",
+      "imageLink": "the-tin-drum.jpg",
+      "language": "German",
+      "link": "The_Tin_Drum.jpg",
+      "pages": 600,
+      "title": "The Tin Drum",
+      "year": 1959
+    },
+    {
+      "author": "Jo\u00e3o Guimar\u00e3es Rosa",
+      "country": "Brazil",
+      "imageLink": "the-devil-to-pay-in-the-backlands.jpg",
+      "language": "Portuguese",
+      "link": "The_Devil_to_Pay_in_the_Backlands.jpg",
+      "pages": 494,
+      "title": "The Devil to Pay in the Backlands",
+      "year": 1956
+    },
+    {
+      "author": "Knut Hamsun",
+      "country": "Norway",
+      "imageLink": "hunger.jpg",
+      "language": "Norwegian",
+      "link": "Hunger_(Hamsun_novel).jpg",
+      "pages": 176,
+      "title": "Hunger",
+      "year": 1890
+    },
+    {
+      "author": "Ernest Hemingway",
+      "country": "United States",
+      "imageLink": "the-old-man-and-the-sea.jpg",
+      "language": "English",
+      "link": "The_Old_Man_and_the_Sea.jpg",
+      "pages": 128,
+      "title": "The Old Man and the Sea",
+      "year": 1952
+    },
+    {
+      "author": "Homer",
+      "country": "Greece",
+      "imageLink": "the-iliad-of-homer.jpg",
+      "language": "Greek",
+      "link": "Iliad.jpg",
+      "pages": 608,
+      "title": "Iliad",
+      "year": -735
+    },
+    {
+      "author": "Homer",
+      "country": "Greece",
+      "imageLink": "the-odyssey-of-homer.jpg",
+      "language": "Greek",
+      "link": "Odyssey.jpg",
+      "pages": 374,
+      "title": "Odyssey",
+      "year": -800
+    },
+    {
+      "author": "Henrik Ibsen",
+      "country": "Norway",
+      "imageLink": "a-Dolls-house.jpg",
+      "language": "Norwegian",
+      "link": "A_Doll%27s_House.jpg",
+      "pages": 68,
+      "title": "A Doll's House",
+      "year": 1879
+    },
+    {
+      "author": "James Joyce",
+      "country": "Irish Free State",
+      "imageLink": "ulysses.jpg",
+      "language": "English",
+      "link": "Ulysses_(novel).jpg",
+      "pages": 228,
+      "title": "Ulysses",
+      "year": 1922
+    },
+    {
+      "author": "Franz Kafka",
+      "country": "Czechoslovakia",
+      "imageLink": "stories-of-franz-kafka.jpg",
+      "language": "German",
+      "link": "Franz_Kafka_bibliography#Short_stories.jpg",
+      "pages": 488,
+      "title": "Stories",
+      "year": 1924
+    },
+    {
+      "author": "Franz Kafka",
+      "country": "Czechoslovakia",
+      "imageLink": "the-trial.jpg",
+      "language": "German",
+      "link": "The_Trial.jpg",
+      "pages": 160,
+      "title": "The Trial",
+      "year": 1925
+    },
+    {
+      "author": "Franz Kafka",
+      "country": "Czechoslovakia",
+      "imageLink": "the-castle.jpg",
+      "language": "German",
+      "link": "The_Castle_(novel).jpg",
+      "pages": 352,
+      "title": "The Castle",
+      "year": 1926
+    },
+    {
+      "author": "K\u0101lid\u0101sa",
+      "country": "India",
+      "imageLink": "the-recognition-of-shakuntala.jpg",
+      "language": "Sanskrit",
+      "link": "Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam.jpg",
+      "pages": 147,
+      "title": "The recognition of Shakuntala",
+      "year": 150
+    },
+    {
+      "author": "Yasunari Kawabata",
+      "country": "Japan",
+      "imageLink": "the-sound-of-the-mountain.jpg",
+      "language": "Japanese",
+      "link": "The_Sound_of_the_Mountain.jpg",
+      "pages": 288,
+      "title": "The Sound of the Mountain",
+      "year": 1954
+    },
+    {
+      "author": "Nikos Kazantzakis",
+      "country": "Greece",
+      "imageLink": "zorba-the-greek.jpg",
+      "language": "Greek",
+      "link": "Zorba_the_Greek.jpg",
+      "pages": 368,
+      "title": "Zorba the Greek",
+      "year": 1946
+    },
+    {
+      "author": "D. H. Lawrence",
+      "country": "United Kingdom",
+      "imageLink": "sons-and-lovers.jpg",
+      "language": "English",
+      "link": "Sons_and_Lovers.jpg",
+      "pages": 432,
+      "title": "Sons and Lovers",
+      "year": 1913
+    },
+    {
+      "author": "Halld\u00f3r Laxness",
+      "country": "Iceland",
+      "imageLink": "independent-people.jpg",
+      "language": "Icelandic",
+      "link": "Independent_People.jpg",
+      "pages": 470,
+      "title": "Independent People",
+      "year": 1934
+    },
+    {
+      "author": "Giacomo Leopardi",
+      "country": "Italy",
+      "imageLink": "poems-giacomo-leopardi.jpg",
+      "language": "Italian",
+      "link": ".jpg",
+      "pages": 184,
+      "title": "Poems",
+      "year": 1818
+    },
+    {
+      "author": "Doris Lessing",
+      "country": "United Kingdom",
+      "imageLink": "the-golden-notebook.jpg",
+      "language": "English",
+      "link": "The_Golden_Notebook.jpg",
+      "pages": 688,
+      "title": "The Golden Notebook",
+      "year": 1962
+    },
+    {
+      "author": "Astrid Lindgren",
+      "country": "Sweden",
+      "imageLink": "pippi-longstocking.jpg",
+      "language": "Swedish",
+      "link": "Pippi_Longstocking.jpg",
+      "pages": 160,
+      "title": "Pippi Longstocking",
+      "year": 1945
+    },
+    {
+      "author": "Lu Xun",
+      "country": "China",
+      "imageLink": "diary-of-a-madman.jpg",
+      "language": "Chinese",
+      "link": "A_Madman%27s_Diary.jpg",
+      "pages": 389,
+      "title": "Diary of a Madman",
+      "year": 1918
+    },
+    {
+      "author": "Naguib Mahfouz",
+      "country": "Egypt",
+      "imageLink": "children-of-gebelawi.jpg",
+      "language": "Arabic",
+      "link": "Children_of_Gebelawi.jpg",
+      "pages": 355,
+      "title": "Children of Gebelawi",
+      "year": 1959
+    },
+    {
+      "author": "Thomas Mann",
+      "country": "Germany",
+      "imageLink": "buddenbrooks.jpg",
+      "language": "German",
+      "link": "Buddenbrooks.jpg",
+      "pages": 736,
+      "title": "Buddenbrooks",
+      "year": 1901
+    },
+    {
+      "author": "Thomas Mann",
+      "country": "Germany",
+      "imageLink": "the-magic-mountain.jpg",
+      "language": "German",
+      "link": "The_Magic_Mountain.jpg",
+      "pages": 720,
+      "title": "The Magic Mountain",
+      "year": 1924
+    },
+    {
+      "author": "Herman Melville",
+      "country": "United States",
+      "imageLink": "moby-dick.jpg",
+      "language": "English",
+      "link": "Moby-Dick.jpg",
+      "pages": 378,
+      "title": "Moby Dick",
+      "year": 1851
+    },
+    {
+      "author": "Michel de Montaigne",
+      "country": "France",
+      "imageLink": "essais.jpg",
+      "language": "French",
+      "link": "Essays_(Montaigne).jpg",
+      "pages": 404,
+      "title": "Essays",
+      "year": 1595
+    },
+    {
+      "author": "Elsa Morante",
+      "country": "Italy",
+      "imageLink": "history.jpg",
+      "language": "Italian",
+      "link": "History_(novel).jpg",
+      "pages": 600,
+      "title": "History",
+      "year": 1974
+    },
+    {
+      "author": "Toni Morrison",
+      "country": "United States",
+      "imageLink": "beloved.jpg",
+      "language": "English",
+      "link": "Beloved_(novel).jpg",
+      "pages": 321,
+      "title": "Beloved",
+      "year": 1987
+    },
+    {
+      "author": "Murasaki Shikibu",
+      "country": "Japan",
+      "imageLink": "the-tale-of-genji.jpg",
+      "language": "Japanese",
+      "link": "The_Tale_of_Genji.jpg",
+      "pages": 1360,
+      "title": "The Tale of Genji",
+      "year": 1006
+    },
+    {
+      "author": "Robert Musil",
+      "country": "Austria",
+      "imageLink": "the-man-without-qualities.jpg",
+      "language": "German",
+      "link": "The_Man_Without_Qualities.jpg",
+      "pages": 365,
+      "title": "The Man Without Qualities",
+      "year": 1931
+    },
+    {
+      "author": "Vladimir Nabokov",
+      "country": "Russia/United States",
+      "imageLink": "lolita.jpg",
+      "language": "English",
+      "link": "Lolita.jpg",
+      "pages": 317,
+      "title": "Lolita",
+      "year": 1955
+    },
+    {
+      "author": "George Orwell",
+      "country": "United Kingdom",
+      "imageLink": "nineteen-eighty-four.jpg",
+      "language": "English",
+      "link": "Nineteen_Eighty-Four.jpg",
+      "pages": 272,
+      "title": "Nineteen Eighty-Four",
+      "year": 1949
+    },
+    {
+      "author": "Ovid",
+      "country": "Roman Empire",
+      "imageLink": "the-metamorphoses-of-ovid.jpg",
+      "language": "Classical Latin",
+      "link": "Metamorphoses.jpg",
+      "pages": 576,
+      "title": "Metamorphoses",
+      "year": 100
+    },
+    {
+      "author": "Fernando Pessoa",
+      "country": "Portugal",
+      "imageLink": "the-book-of-disquiet.jpg",
+      "language": "Portuguese",
+      "link": "The_Book_of_Disquiet.jpg",
+      "pages": 272,
+      "title": "The Book of Disquiet",
+      "year": 1928
+    },
+    {
+      "author": "Edgar Allan Poe",
+      "country": "United States",
+      "imageLink": "tales-and-poems-of-edgar-allan-poe.jpg",
+      "language": "English",
+      "link": "Edgar_Allan_Poe_bibliography#Tales.jpg",
+      "pages": 842,
+      "title": "Tales",
+      "year": 1950
+    },
+    {
+      "author": "Marcel Proust",
+      "country": "France",
+      "imageLink": "a-la-recherche-du-temps-perdu.jpg",
+      "language": "French",
+      "link": "In_Search_of_Lost_Time.jpg",
+      "pages": 2408,
+      "title": "In Search of Lost Time",
+      "year": 1920
+    },
+    {
+      "author": "Fran\u00e7ois Rabelais",
+      "country": "France",
+      "imageLink": "gargantua-and-pantagruel.jpg",
+      "language": "French",
+      "link": "Gargantua_and_Pantagruel.jpg",
+      "pages": 623,
+      "title": "Gargantua and Pantagruel",
+      "year": 1533
+    },
+    {
+      "author": "Juan Rulfo",
+      "country": "Mexico",
+      "imageLink": "pedro-paramo.jpg",
+      "language": "Spanish",
+      "link": "Pedro_P%C3%A1ramo.jpg",
+      "pages": 124,
+      "title": "Pedro P\u00e1ramo",
+      "year": 1955
+    },
+    {
+      "author": "Rumi",
+      "country": "Sultanate of Rum",
+      "imageLink": "the-masnavi.jpg",
+      "language": "Persian",
+      "link": "Masnavi.jpg",
+      "pages": 438,
+      "title": "The Masnavi",
+      "year": 1236
+    },
+    {
+      "author": "Salman Rushdie",
+      "country": "United Kingdom, India",
+      "imageLink": "midnights-children.jpg",
+      "language": "English",
+      "link": "Midnight%27s_Children.jpg",
+      "pages": 536,
+      "title": "Midnight's Children",
+      "year": 1981
+    },
+    {
+      "author": "Saadi",
+      "country": "Persia, Persian Empire",
+      "imageLink": "bostan.jpg",
+      "language": "Persian",
+      "link": "Bustan_(book).jpg",
+      "pages": 298,
+      "title": "Bostan",
+      "year": 1257
+    },
+    {
+      "author": "Tayeb Salih",
+      "country": "Sudan",
+      "imageLink": "season-of-migration-to-the-north.jpg",
+      "language": "Arabic",
+      "link": "Season_of_Migration_to_the_North.jpg",
+      "pages": 139,
+      "title": "Season of Migration to the North",
+      "year": 1966
+    },
+    {
+      "author": "Jos\u00e9 Saramago",
+      "country": "Portugal",
+      "imageLink": "blindness.jpg",
+      "language": "Portuguese",
+      "link": "Blindness_(novel).jpg",
+      "pages": 352,
+      "title": "Blindness",
+      "year": 1995
+    },
+    {
+      "author": "William Shakespeare",
+      "country": "England",
+      "imageLink": "hamlet.jpg",
+      "language": "English",
+      "link": "Hamlet.jpg",
+      "pages": 432,
+      "title": "Hamlet",
+      "year": 1603
+    },
+    {
+      "author": "William Shakespeare",
+      "country": "England",
+      "imageLink": "king-lear.jpg",
+      "language": "English",
+      "link": "King_Lear.jpg",
+      "pages": 384,
+      "title": "King Lear",
+      "year": 1608
+    },
+    {
+      "author": "William Shakespeare",
+      "country": "England",
+      "imageLink": "othello.jpg",
+      "language": "English",
+      "link": "Othello.jpg",
+      "pages": 314,
+      "title": "Othello",
+      "year": 1609
+    },
+    {
+      "author": "Sophocles",
+      "country": "Greece",
+      "imageLink": "oedipus-the-king.jpg",
+      "language": "Greek",
+      "link": "Oedipus_the_King.jpg",
+      "pages": 88,
+      "title": "Oedipus the King",
+      "year": -430
+    },
+    {
+      "author": "Stendhal",
+      "country": "France",
+      "imageLink": "le-rouge-et-le-noir.jpg",
+      "language": "French",
+      "link": "The_Red_and_the_Black.jpg",
+      "pages": 576,
+      "title": "The Red and the Black",
+      "year": 1830
+    },
+    {
+      "author": "Laurence Sterne",
+      "country": "England",
+      "imageLink": "the-life-and-opinions-of-tristram-shandy.jpg",
+      "language": "English",
+      "link": "The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman.jpg",
+      "pages": 640,
+      "title": "The Life And Opinions of Tristram Shandy",
+      "year": 1760
+    },
+    {
+      "author": "Italo Svevo",
+      "country": "Italy",
+      "imageLink": "confessions-of-zeno.jpg",
+      "language": "Italian",
+      "link": "Zeno%27s_Conscience.jpg",
+      "pages": 412,
+      "title": "Confessions of Zeno",
+      "year": 1923
+    },
+    {
+      "author": "Jonathan Swift",
+      "country": "Ireland",
+      "imageLink": "gullivers-travels.jpg",
+      "language": "English",
+      "link": "Gulliver%27s_Travels.jpg",
+      "pages": 178,
+      "title": "Gulliver's Travels",
+      "year": 1726
+    },
+    {
+      "author": "Leo Tolstoy",
+      "country": "Russia",
+      "imageLink": "war-and-peace.jpg",
+      "language": "Russian",
+      "link": "War_and_Peace.jpg",
+      "pages": 1296,
+      "title": "War and Peace",
+      "year": 1867
+    },
+    {
+      "author": "Leo Tolstoy",
+      "country": "Russia",
+      "imageLink": "anna-karenina.jpg",
+      "language": "Russian",
+      "link": "Anna_Karenina.jpg",
+      "pages": 864,
+      "title": "Anna Karenina",
+      "year": 1877
+    },
+    {
+      "author": "Leo Tolstoy",
+      "country": "Russia",
+      "imageLink": "the-death-of-ivan-ilyich.jpg",
+      "language": "Russian",
+      "link": "The_Death_of_Ivan_Ilyich.jpg",
+      "pages": 92,
+      "title": "The Death of Ivan Ilyich",
+      "year": 1886
+    },
+    {
+      "author": "Mark Twain",
+      "country": "United States",
+      "imageLink": "the-adventures-of-huckleberry-finn.jpg",
+      "language": "English",
+      "link": "Adventures_of_Huckleberry_Finn.jpg",
+      "pages": 224,
+      "title": "The Adventures of Huckleberry Finn",
+      "year": 1884
+    },
+    {
+      "author": "Valmiki",
+      "country": "India",
+      "imageLink": "ramayana.jpg",
+      "language": "Sanskrit",
+      "link": "Ramayana.jpg",
+      "pages": 152,
+      "title": "Ramayana",
+      "year": -450
+    },
+    {
+      "author": "Virgil",
+      "country": "Roman Empire",
+      "imageLink": "the-aeneid.jpg",
+      "language": "Classical Latin",
+      "link": "Aeneid.jpg",
+      "pages": 442,
+      "title": "The Aeneid",
+      "year": -23
+    },
+    {
+      "author": "Vyasa",
+      "country": "India",
+      "imageLink": "the-mahab-harata.jpg",
+      "language": "Sanskrit",
+      "link": "Mahabharata.jpg",
+      "pages": 276,
+      "title": "Mahabharata",
+      "year": -700
+    },
+    {
+      "author": "Walt Whitman",
+      "country": "United States",
+      "imageLink": "leaves-of-grass.jpg",
+      "language": "English",
+      "link": "Leaves_of_Grass.jpg",
+      "pages": 152,
+      "title": "Leaves of Grass",
+      "year": 1855
+    },
+    {
+      "author": "Virginia Woolf",
+      "country": "United Kingdom",
+      "imageLink": "mrs-dalloway.jpg",
+      "language": "English",
+      "link": "Mrs_Dalloway.jpg",
+      "pages": 216,
+      "title": "Mrs Dalloway",
+      "year": 1925
+    },
+    {
+      "author": "Virginia Woolf",
+      "country": "United Kingdom",
+      "imageLink": "to-the-lighthouse.jpg",
+      "language": "English",
+      "link": "To_the_Lighthouse.jpg",
+      "pages": 209,
+      "title": "To the Lighthouse",
+      "year": 1927
+    },
+    {
+      "author": "Marguerite Yourcenar",
+      "country": "France/Belgium",
+      "imageLink": "memoirs-of-hadrian.jpg",
+      "language": "French",
+      "link": "Memoirs_of_Hadrian.jpg",
+      "pages": 408,
+      "title": "Memoirs of Hadrian",
+      "year": 1951
+    }
+  ]

@@ -1,0 +1,45 @@
+<div class="container-fluid">
+    <div *ngIf="detailsFlag">
+        <div class="card">
+            <div class="card-header">
+                <div class="row align-items-center">
+                    <div class="col-sm-5">
+                        <h5>Book Details</h5>
+                    </div>
+                    <div class="col-sm-7">
+                        <button type="button" class="btn-close float-end pointer me-3" aria-label="Close"
+                            (click)="onBack()">
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body d-flex flex-column book-details">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="row">
+                            <div class="col-4">
+                                <img [src]="'assets/images/' + BookData['imageLink']"
+                                    class="card-img-top imageDimensions" alt="{{ BookData['title'] }}">
+                            </div>
+                            <div class="col-8  d-flex flex-column"> <!-- Add d-flex flex-column -->
+                                <h6 class="pt-3 book-title">{{ BookData['title'] }}</h6>
+                                <p class="pt-3"><span class="book-label">Author:</span> {{ BookData['author'] }}</p>
+                                <p class="pt-3"><span class="book-label">Desciption:</span> {{ BookData['Description']
+                                    }}</p>
+
+                                <!-- Spacer div to push button to the bottom -->
+                                <div class="flex-grow-1"></div>
+
+                                <div class="mt-auto pb-1">
+                                    <button type="submit" class="btn btn-warning btn-sm px-2 py-1">
+                                        Add To Cart &nbsp;<i class="fa fa-shopping-cart"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
