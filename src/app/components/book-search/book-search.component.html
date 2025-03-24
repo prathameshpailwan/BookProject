@@ -1,1 +1,16 @@
-<p>book-search works!</p>
+<div class="row">
+    <div class="col-6">
+        <h5>Books shop</h5>
+    </div>
+
+    <div class="col-6 d-flex gap-2">
+        <input type="text" class="form-control" [(ngModel)]="searchTitle" placeholder="Search Title"
+            (input)="onSearch()" />
+
+        <input type="text" class="form-control" [(ngModel)]="searchAuthor" placeholder="Search Author"
+            (input)="onSearch()" />
+
+        <input type="text" class="form-control" [(ngModel)]="searchText" placeholder="Global Search"
+            (input)="onSearch()" />
+    </div>
+</div>

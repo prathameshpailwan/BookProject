@@ -4,11 +4,12 @@ import { Component, OnInit } from '@angular/core';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { Router } from '@angular/router';
 import { PipeModule } from '../pipe.module';
+import { BookSearchComponent } from '../book-search/book-search.component';
 
 @Component({
   selector: 'app-books',
   standalone: true,
-  imports: [CommonModule, ReactiveFormsModule, FormsModule, PipeModule],
+  imports: [CommonModule, ReactiveFormsModule, FormsModule, PipeModule, BookSearchComponent],
   templateUrl: './books.component.html',
   styleUrl: './books.component.css'
 })
@@ -27,7 +28,7 @@ export class BooksComponent implements OnInit {
   }
 
   loadBooks() {
-    
+
     this.http.get<any[]>('assets/books.json').subscribe((data) => {
       this.filteredBooksList = this.booksList = data;
     }
@@ -63,8 +64,16 @@ export class BooksComponent implements OnInit {
       );
     }
   }
-
-
-
-
+  onSearch(query: { title: string; author: string; text: string }) {
+    this.filteredBooksList = this.booksList.filter((book) =>
+      (query.title ? book.title.toLowerCase().includes(query.title.toLowerCase()) : true) &&
+      (query.author ? book.author.toLowerCase().includes(query.author.toLowerCase()) : true) &&
+      (query.text
+        ? Object.values(book)
+          .join(' ')
+          .toLowerCase()
+          .includes(query.text.toLowerCase())
+        : true)
+    );
+  }
 }

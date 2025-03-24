@@ -3,24 +3,7 @@
         <div class="card">
             <div class="card-header p-2">
                 <div class="row align-items-center">
-                    <div class="col-sm-4">
-                        <h5>Booksssssss</h5>
-                    </div>
-                    <div class="col-sm-2">
-                        <input [(ngModel)]="Title" name="search" type="search" id="search-bar" autocomplete="off"
-                            class="form-control" placeholder="Search Title"
-                            (ngModelChange)="SearchBooks(Title ,'Title')">
-                    </div>
-                    <div class="col-sm-2">
-                        <input [(ngModel)]="Author" name="search" type="search" id="search-bar" autocomplete="off"
-                            class="form-control" placeholder="Search Author"
-                            (ngModelChange)="SearchBooks(Author , 'Author')">
-                    </div>
-                    <div class="col-sm-4 d-flex justify-content-end">
-                        <input [(ngModel)]="searchText" name="search" type="search" id="search-bar" autocomplete="off"
-                            class="form-control" placeholder="Search here">
-                        <i class="fa fa-search"></i>
-                    </div>
+                    <app-book-search (searchEvent)="onSearch($event)"></app-book-search>
                 </div>
             </div>
         </div>
@@ -43,7 +26,7 @@
                         <p class="small mb-0"><strong>Author:</strong> {{ book.author }}</p>
                         <div class="flex-grow-1"></div>
 
-                        <div class="mt-auto pb-1 pull-right">
+                        <div class="mt-auto pb-1 d-flex justify-content-center">
                             <button type="submit" class="btn btn-success btn-sm px-2 py-1" (click)="GetDetails(book)">
                                 <b> View Details</b>
                             </button>
